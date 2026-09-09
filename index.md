@@ -4,7 +4,7 @@ Este é o repositório do projeto da disciplina de Ciência de Dados.
 
 ## Sobre
 
-Este repositório contém códigos e projetos desenvolvidos ao longo da dicisplina.
+Este repositório contém a organização do projeto desenvolvido ao longo da dicisplina.
 
 ## Conteúdos
 
@@ -12,4 +12,4 @@ Este repositório contém códigos e projetos desenvolvidos ao longo da dicispli
 
 ## Autor
 
-Luis Felipe
+Luís Felipe
