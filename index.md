@@ -10,6 +10,7 @@ Este repositório contém a organização do projeto desenvolvido ao longo da di
 
 
 
-## Autor
+## Autores
 
 Luís Felipe
+Fernado
