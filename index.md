@@ -12,5 +12,5 @@ Este repositório contém a organização do projeto desenvolvido ao longo da di
 
 ## Autores
 
-Luís Felipe
-Fernado
+* Luís Felipe
+* Fernado
